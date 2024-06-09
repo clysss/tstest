@@ -1,6 +1,7 @@
 to deploy from azure : (web app) Deployment center : 
 Settings : 
   Github : change provider => app service build
+.yaml file not used (oryx use package.json )
 
 
 from :
