@@ -1,3 +1,8 @@
+to deploy from azure : (web app) Deployment center : 
+Settings : 
+  Github : change provider => app service build
+
+
 from :
 https://hackernoon.com/resolving-deployment-issues-with-ts-node-and-azure-development-pipelines
 <h1>Resolving Deployment Issues with Ts-node and Azure Development Pipelines<br>
